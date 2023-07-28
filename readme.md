@@ -35,7 +35,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## Layout
 
-Você pode visitar o layout do projeto através [DESSE-LINK] (https://www.figma.com/file/a8ITUBxsnF3oxHwscjOTaO/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=EFnZJFW8OMa2AiMR-0). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo.
+Você pode visitar o layout do projeto através [DESSE-LINK](https://www.figma.com/file/a8ITUBxsnF3oxHwscjOTaO/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=EFnZJFW8OMa2AiMR-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
